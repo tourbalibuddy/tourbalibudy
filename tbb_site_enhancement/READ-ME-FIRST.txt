@@ -1,0 +1,13 @@
+TOUR BALI BUDDY — WEBSITE ENHANCEMENT
+
+Contents:
+- index.html: original homepage with minimal additions: photo links, detail links and Instagram Gallery navigation.
+- details/: dedicated detail pages for image-led cards already present on the homepage.
+- instagram-gallery.html: 18-tile photo journal using existing website image references.
+
+IMPORTANT:
+1. Upload/replace index.html in the existing Cloudflare Pages project.
+2. Upload the complete details/ folder and instagram-gallery.html beside index.html.
+3. Keep your existing assets/ folder and all other website files unchanged. This package does not contain your original assets folder.
+4. The Instagram page currently uses existing website photography, not a verified copy of 18 Instagram posts. To show the exact posts, provide 18 Instagram post URLs or connect an approved Instagram feed.
+5. This package does not publish to Cloudflare; it prepares the files for deployment.
